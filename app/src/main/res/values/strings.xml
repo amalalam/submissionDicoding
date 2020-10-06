@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Alam -Github App User</string>
+    <string name="name">Name</string>
+    <string name="username">Username</string>
+    <string name="location">Location</string>
+    <string name="repositori">Repositori</string>
+    <string name="company">Company</string>
+    <string name="following">Following</string>
+    <string name="follower">Follower</string>
+    <string name="github_user_s">Github User\'s</string>
+    <string name="welcome_to_n_alam_github_user">Welcome To\n Alam- Github User</string>
+    <string name="let_s_get_started">Let\'s Get Started</string>
+
+    <string-array name="data_name">
+        <item>Amal Nur Alam</item>
+        <item>Zulfan Fasya</item>
+        <item>Nurirvan Mulia</item>
+        <item>Putra Ahmad</item>
+        <item>Syahla Zuelvia</item>
+        <item>Hani Febriyani</item>
+        <item>Ghina Amalia</item>
+        <item>Amalia Nur</item>
+        <item>Aprlia</item>
+        <item>Ratu Putri </item>
+    </string-array>
+
+    <string-array name="user_name">
+        <item>amalam8</item>
+        <item>zulfanFasya</item>
+        <item>nurirvanmulia</item>
+        <item>putraAhmad7</item>
+        <item>zuelvia06</item>
+        <item>haniFebri</item>
+        <item>gwinaAmel</item>
+        <item>amaliaNur2</item>
+        <item>apriliaKhaerunisa</item>
+        <item>putriRatu</item>
+    </string-array>
+
+</resources>
