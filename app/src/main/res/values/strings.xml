@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Submission 2</string>
+    <string name="edt_username">Search Name</string>
+    <string name="search">Search</string>
+
+
+    <string name="detail_username">\@%1s</string>
+    <string name="number_following">%1s Following</string>
+    <string name="number_follower">%1s Follower</string>
+    <string name="location">Location %1s</string>
+    <string name="repository">%1s Repository</string>
+    <string name="company">Company: %1s </string>
+
+
+    <string name="full_name">FullNames</string>
+    <string name="username">Username</string>
+    <string name="following">Following</string>
+    <string name="follower">Followers</string>
+    <string name="change_language_settings">Change Languange</string>
+</resources>

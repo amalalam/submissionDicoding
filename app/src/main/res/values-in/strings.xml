@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Submission 2</string>
+    <string name="edt_username">Cari User</string>
+    <string name="search">temukan</string>
+
+
+    <string name="detail_username">\@%1s</string>
+    <string name="number_following">%1s Mengikuti</string>
+    <string name="number_follower">%1s Pengikut</string>
+    <string name="location">Lokasi: %1s</string>
+    <string name="repository">%1s Repository</string>
+    <string name="company">Perusahaan: %1s </string>
+
+    <string name="full_name">Nama Lengkap</string>
+    <string name="username">Username</string>
+    <string name="following">Mengikuti</string>
+    <string name="follower">Pengikut</string>
+    <string name="change_language_settings">Ganti Bahasa</string>
+</resources>
